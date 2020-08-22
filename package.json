@@ -1,0 +1,23 @@
+{
+  "name": "oauth-jwt-authentication-flow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbdulMoqueet/oauth-jwt-authentication-flow.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbdulMoqueet/oauth-jwt-authentication-flow/issues"
+  },
+  "homepage": "https://github.com/AbdulMoqueet/oauth-jwt-authentication-flow#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.10.0"
+  }
+}
