@@ -1,3 +1,8 @@
-# oauth-jwt-authentication-flow
+# jwt-authentication
 
-## Authentication-flow using Node, Express, OAuth, Passport.js jwt-tokens & monoDB
+## Authentication-flow using:
+* Node
+* Express
+* jwt-tokens 
+* cookie-parser
+* mongoose
