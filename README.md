@@ -4,6 +4,6 @@
 * Node
 * Express
 * bcrypt
-* jwt-tokens 
+* jwt
 * cookie-parser
 * mongoose
